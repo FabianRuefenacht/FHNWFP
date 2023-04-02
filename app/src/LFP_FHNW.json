@@ -1,0 +1,2864 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN1",
+            "E": "2615066.0900",
+            "N": "1264693.6500",
+            "H": "280.6352",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.638700222533343,
+                47.532802425570488,
+                280.6352
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN2",
+            "E": "2614927.3900",
+            "N": "1264817.7600",
+            "H": "279.8869",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.63686243609594,
+                47.533921795014308,
+                279.8869
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN3",
+            "E": "2614906.9100",
+            "N": "1264875.8100",
+            "H": "279.7643",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.636592393467746,
+                47.534444346002999,
+                279.7643
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN4",
+            "E": "2615159.2300",
+            "N": "1264811.7500",
+            "H": "280.2946",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.63994112799903,
+                47.533862454924588,
+                280.2946
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU1",
+            "E": "2615113.6730",
+            "N": "1264993.4502",
+            "H": "280.1098",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.639342267849233,
+                47.535497668182565,
+                280.1098
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU2",
+            "E": "2615242.3079",
+            "N": "1264922.3304",
+            "H": "279.8911",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641048196566677,
+                47.534855073739635,
+                279.8911
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU3",
+            "E": "2615280.4326",
+            "N": "1264999.1443",
+            "H": "275.7816",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641557139400848,
+                47.535545037060089,
+                275.7816
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU4",
+            "E": "2615301.9466",
+            "N": "1264870.8727",
+            "H": "279.8773",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641838465050972,
+                47.534390894629006,
+                279.8773
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU5",
+            "E": "2615383.8530",
+            "N": "1264904.1195",
+            "H": "279.8977",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642927358130951,
+                47.53468800286543,
+                279.8977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU6",
+            "E": "2615359.8509",
+            "N": "1264865.1794",
+            "H": "279.9726",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642607260242927,
+                47.534338344453928,
+                279.9726
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU7",
+            "E": "2615469.4875",
+            "N": "1264851.5710",
+            "H": "279.2991",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644062802861238,
+                47.534213391253239,
+                279.2991
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU8",
+            "E": "2615457.4337",
+            "N": "1264805.2549",
+            "H": "280.2276",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643901121440692,
+                47.533797118013446,
+                280.2276
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU9",
+            "E": "2615518.2432",
+            "N": "1264868.5328",
+            "H": "286.2956",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644710884123311,
+                47.534364796138924,
+                286.2956
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAP1",
+            "E": "2615312.1904",
+            "N": "1264919.1770",
+            "H": "329.7610",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641976162596493,
+                47.534825094076851,
+                329.761
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAP2",
+            "E": "2615311.1405",
+            "N": "1264917.4687",
+            "H": "329.7594",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64196216085168,
+                47.534809754415477,
+                329.7594
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAP3",
+            "E": "2615308.9707",
+            "N": "1264914.8861",
+            "H": "329.7584",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641933256339082,
+                47.534786577506281,
+                329.7584
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAP4",
+            "E": "2615305.1708",
+            "N": "1264925.0301",
+            "H": "329.7580",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641883139461779,
+                47.534877898375967,
+                329.758
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAP5",
+            "E": "2615303.0052",
+            "N": "1264922.4667",
+            "H": "329.7619",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641854291382497,
+                47.534854894030225,
+                329.7619
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAP6",
+            "E": "2615301.6921",
+            "N": "1264919.3484",
+            "H": "329.7838",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641836745934063,
+                47.534826879262731,
+                329.7838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAR1",
+            "E": "2615304.8951",
+            "N": "1264926.8580",
+            "H": "331.0995",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641879540664173,
+                47.534894344463076,
+                331.0995
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAR2",
+            "E": "2615314.1233",
+            "N": "1264921.2057",
+            "H": "331.0991",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642001902008268,
+                47.534843294833628,
+                331.0991
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAR3",
+            "E": "2615309.1518",
+            "N": "1264913.1118",
+            "H": "331.1159",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641935600617204,
+                47.534770615678198,
+                331.1159
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CAR4",
+            "E": "2615299.9198",
+            "N": "1264918.7715",
+            "H": "331.1204",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641813189164503,
+                47.534821731880839,
+                331.1204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CDPE",
+            "E": "2615298.8653",
+            "N": "1264907.9023",
+            "H": "345.8263",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641798812588627,
+                47.534724001390494,
+                345.8263
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CDPN",
+            "E": "2615273.3009",
+            "N": "1264923.5944",
+            "H": "345.8273",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641459842154765,
+                47.534865724850164,
+                345.8273
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CDPS",
+            "E": "2615294.6671",
+            "N": "1264901.0476",
+            "H": "345.8308",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641742823825911,
+                47.534662449248238,
+                345.8308
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CDPW",
+            "E": "2615269.1084",
+            "N": "1264916.7229",
+            "H": "345.8351",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641403928759979,
+                47.534804021319921,
+                345.8351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR1",
+            "E": "2615302.1935",
+            "N": "1264949.5294",
+            "H": "302.4447",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64184443879553,
+                47.535098308214778,
+                302.4447
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR2",
+            "E": "2615319.8000",
+            "N": "1264938.7158",
+            "H": "302.3877",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642077891975538,
+                47.535000644584471,
+                302.3877
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR3",
+            "E": "2615337.3038",
+            "N": "1264927.9657",
+            "H": "302.4645",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642309982569278,
+                47.534903553971986,
+                302.4645
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR4",
+            "E": "2615328.9128",
+            "N": "1264914.1435",
+            "H": "302.4535",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642198071452952,
+                47.534779435539896,
+                302.4535
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR5",
+            "E": "2615319.5460",
+            "N": "1264898.8735",
+            "H": "302.4664",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642073152143679,
+                47.534642318498037,
+                302.4664
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR6",
+            "E": "2615301.9538",
+            "N": "1264909.6762",
+            "H": "302.4688",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64183989006773,
+                47.534739883767294,
+                302.4688
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR7",
+            "E": "2615284.4535",
+            "N": "1264920.4189",
+            "H": "302.4514",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641607845558268,
+                47.534836906808039,
+                302.4514
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CIR8",
+            "E": "2615293.2834",
+            "N": "1264934.9962",
+            "H": "302.4481",
+            "type": "Innenraum"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641725610091741,
+                47.534967806817036,
+                302.4481
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMP1",
+            "E": "2616739.4474",
+            "N": "1264552.1232",
+            "H": "315.2488",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.660917056587784,
+                47.531489212929642,
+                315.2488
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMR1",
+            "E": "2616736.9993",
+            "N": "1264552.6338",
+            "H": "314.4844",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.660884565831331,
+                47.531493867297172,
+                314.4844
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMR2",
+            "E": "2616280.1784",
+            "N": "1263171.8684",
+            "H": "495.3566",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.654767819560853,
+                47.519086999984545,
+                495.3566
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMR3",
+            "E": "2615346.9786",
+            "N": "1263195.5997",
+            "H": "364.1210",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642378959668722,
+                47.519322807180181,
+                364.121
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMR4",
+            "E": "2614583.6432",
+            "N": "1264459.2774",
+            "H": "287.1969",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.632285686278523,
+                47.530705374698435,
+                287.1969
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMR5",
+            "E": "2612983.0708",
+            "N": "1264723.7527",
+            "H": "335.7044",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.611038615077621,
+                47.5331174361039,
+                335.7044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN10",
+            "E": "2615513.2300",
+            "N": "1264869.2700",
+            "H": "286.1186",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644644332576826,
+                47.534371544282926,
+                286.1186
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU10",
+            "E": "2615494.0713",
+            "N": "1264783.3848",
+            "H": "280.1585",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644386918450387,
+                47.533599563842706,
+                280.1585
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU11",
+            "E": "2615750.8151",
+            "N": "1264738.4990",
+            "H": "280.4330",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.647794938682321,
+                47.533189789657563,
+                280.433
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU12",
+            "E": "2615736.9226",
+            "N": "1264706.9282",
+            "H": "280.5780",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.647609332801053,
+                47.532906181081998,
+                280.578
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU13",
+            "E": "2615661.3505",
+            "N": "1264448.7918",
+            "H": "281.0240",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.646596683525965,
+                47.530586361776898,
+                281.024
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU14",
+            "E": "2615069.9382",
+            "N": "1264832.7931",
+            "H": "281.5530",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.638756020740139,
+                47.534053757717992,
+                281.553
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU15",
+            "E": "2615539.1189",
+            "N": "1264558.7029",
+            "H": "280.9912",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644977341798057,
+                47.531577768038368,
+                280.9912
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU16",
+            "E": "2615471.4802",
+            "N": "1264671.0825",
+            "H": "280.7341",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644083014531215,
+                47.532590073996282,
+                280.7341
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU17",
+            "E": "2615310.6917",
+            "N": "1264677.8946",
+            "H": "279.5833",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641947988372216,
+                47.532655092628779,
+                279.5833
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "FHNW",
+            "E": "2615306.4560",
+            "N": "1264897.6500",
+            "H": "346.7650",
+            "type": "AGNES"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641899269241057,
+                47.534631618561477,
+                346.765
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "67614",
+            "E": "2615343.0619",
+            "N": "1263194.6394",
+            "H": "363.1018",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64232692620068,
+                47.519314261532017,
+                363.1018
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "67715",
+            "E": "2616278.7349",
+            "N": "1263166.5167",
+            "H": "493.2382",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.65474845987386,
+                47.51903890347841,
+                493.2382
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA101",
+            "E": "2615305.9984",
+            "N": "1264926.2784",
+            "H": "330.0120",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641894173181872,
+                47.534889106077202,
+                330.012
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA102",
+            "E": "2615312.2725",
+            "N": "1264922.4339",
+            "H": "330.0168",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641977364581774,
+                47.534854383939567,
+                330.0168
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA103",
+            "E": "2615311.6305",
+            "N": "1264916.3503",
+            "H": "330.0160",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641968629947505,
+                47.534799684421195,
+                330.016
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA104",
+            "E": "2615307.2337",
+            "N": "1264914.1932",
+            "H": "330.0159",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641910164403313,
+                47.534780386048759,
+                330.0159
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA105",
+            "E": "2615304.5327",
+            "N": "1264915.8490",
+            "H": "330.0162",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641874350576098,
+                47.534795340596105,
+                330.0162
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA106",
+            "E": "2615301.8164",
+            "N": "1264917.5175",
+            "H": "330.0208",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641838333972422,
+                47.534810409707994,
+                330.0208
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA107",
+            "E": "2615301.4466",
+            "N": "1264922.5775",
+            "H": "330.0518",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641833596200054,
+                47.534855926701084,
+                330.0518
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA201",
+            "E": "2615309.3667",
+            "N": "1264924.0524",
+            "H": "331.4285",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641938829599104,
+                47.534869007794185,
+                331.4285
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA202",
+            "E": "2615304.5350",
+            "N": "1264915.8517",
+            "H": "331.3607",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641874381213722,
+                47.534795364825861,
+                331.3607
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CA301",
+            "E": "2615306.5831",
+            "N": "1264919.4453",
+            "H": "331.3945",
+            "type": "Atelier"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641901704117825,
+                47.534827637263142,
+                331.3945
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD101",
+            "E": "2615273.8030",
+            "N": "1264921.5276",
+            "H": "344.3039",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641466439614435,
+                47.53484712492417,
+                344.3039
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD102",
+            "E": "2615273.7911",
+            "N": "1264915.6037",
+            "H": "344.2550",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641466078998636,
+                47.534793847078284,
+                344.255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD103",
+            "E": "2615277.2408",
+            "N": "1264919.4093",
+            "H": "344.2912",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641512022835975,
+                47.534827993823669,
+                344.2912
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD104",
+            "E": "2615277.2139",
+            "N": "1264913.5003",
+            "H": "344.2550",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64151146347709,
+                47.534774850332049,
+                344.255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD105",
+            "E": "2615280.6806",
+            "N": "1264917.2891",
+            "H": "344.2872",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64155763252063,
+                47.534808845570616,
+                344.2872
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD106",
+            "E": "2615280.3796",
+            "N": "1264911.5340",
+            "H": "344.2582",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64155343820473,
+                47.534757092568768,
+                344.2582
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD107",
+            "E": "2615283.8543",
+            "N": "1264915.3558",
+            "H": "344.2917",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641599714632761,
+                47.534791384399426,
+                344.2917
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD108",
+            "E": "2615283.8637",
+            "N": "1264909.4403",
+            "H": "344.2598",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641599637044952,
+                47.53473818160689,
+                344.2598
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD109",
+            "E": "2615287.3026",
+            "N": "1264913.2562",
+            "H": "344.2905",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641645437843445,
+                47.534772421185963,
+                344.2905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD110",
+            "E": "2615287.3145",
+            "N": "1264907.3090",
+            "H": "344.2556",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641645392325993,
+                47.53471893323303,
+                344.2556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD111",
+            "E": "2615290.7205",
+            "N": "1264911.1204",
+            "H": "344.2992",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641690756055904,
+                47.534753133085097,
+                344.2992
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD112",
+            "E": "2615290.7562",
+            "N": "1264905.1820",
+            "H": "344.2649",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641691026868931,
+                47.53469972372509,
+                344.2649
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD113",
+            "E": "2615294.1799",
+            "N": "1264909.0092",
+            "H": "344.3069",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641736626217063,
+                47.534734065250404,
+                344.3069
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD114",
+            "E": "2615294.1709",
+            "N": "1264903.0702",
+            "H": "344.2568",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641736303327152,
+                47.534680651530273,
+                344.2568
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD115",
+            "E": "2615297.6236",
+            "N": "1264906.8938",
+            "H": "344.3027",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641782287698214,
+                47.534714959987802,
+                344.3027
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD116",
+            "E": "2615297.6271",
+            "N": "1264900.9656",
+            "H": "344.2568",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64178213113796,
+                47.534661643110084,
+                344.2568
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD201",
+            "E": "2615279.4075",
+            "N": "1264919.0838",
+            "H": "344.3121",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641540786533421,
+                47.534825016162912,
+                344.3121
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD202",
+            "E": "2615274.9537",
+            "N": "1264913.7429",
+            "H": "344.2769",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641481455245638,
+                47.534777084568553,
+                344.2769
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD203",
+            "E": "2615296.4566",
+            "N": "1264908.7466",
+            "H": "344.3302",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64176685285616,
+                47.534731650689878,
+                344.3302
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD204",
+            "E": "2615291.9166",
+            "N": "1264903.3675",
+            "H": "344.2757",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641706375385849,
+                47.534683377646928,
+                344.2757
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CM101",
+            "E": "2614958.7880",
+            "N": "1264420.7700",
+            "H": "304.4621",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.637266116709303,
+                47.53035064796893,
+                304.4621
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CM102",
+            "E": "2614927.5350",
+            "N": "1264580.4020",
+            "H": "289.0804",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.636856430351386,
+                47.53178704958669,
+                289.0804
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CM103",
+            "E": "2614695.1590",
+            "N": "1264621.6190",
+            "H": "292.3210",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.633771895410053,
+                47.532162963245661,
+                292.321
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CMR10",
+            "E": "2618692.4970",
+            "N": "1269028.8150",
+            "H": "593.0450",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.687040471069176,
+                47.571698693866836,
+                593.045
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN101",
+            "E": "2615263.6200",
+            "N": "1264915.4000",
+            "H": "280.4917",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641330994955447,
+                47.534792250519025,
+                280.4917
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN102",
+            "E": "2615269.8900",
+            "N": "1264925.7000",
+            "H": "275.8766",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641414615693343,
+                47.534884741086323,
+                275.8766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN103",
+            "E": "2615297.1100",
+            "N": "1264970.0500",
+            "H": "275.8702",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641777629916891,
+                47.535282983421254,
+                275.8702
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN104",
+            "E": "2615297.5800",
+            "N": "1264970.1700",
+            "H": "275.8805",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641783875909627,
+                47.535284051770489,
+                275.8805
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN105",
+            "E": "2615357.6000",
+            "N": "1264933.3500",
+            "H": "270.8459",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642579711518353,
+                47.53495150674879,
+                270.8459
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN106",
+            "E": "2615357.9700",
+            "N": "1264931.9800",
+            "H": "280.2198",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642584578200874,
+                47.534939176685661,
+                280.2198
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN107",
+            "E": "2615325.3800",
+            "N": "1264879.2200",
+            "H": "280.5136",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642149955876734,
+                47.53446542412852,
+                280.5136
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN108",
+            "E": "2615312.1800",
+            "N": "1264885.5700",
+            "H": "280.4852",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641974872334293,
+                47.534522841091572,
+                280.4852
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN201",
+            "E": "2615389.3900",
+            "N": "1264913.8800",
+            "H": "270.8705",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643001228307881,
+                47.534775657255601,
+                270.8705
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN301",
+            "E": "2615242.5100",
+            "N": "1264923.9200",
+            "H": "280.0693",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641050934801967,
+                47.534869365546236,
+                280.0693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN302",
+            "E": "2615261.8500",
+            "N": "1264963.4100",
+            "H": "277.6010",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64130912901433,
+                47.535224081762436,
+                277.601
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN303",
+            "E": "2615281.4000",
+            "N": "1265003.0400",
+            "H": "276.1731",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641570120408677,
+                47.535580051618446,
+                276.1731
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN401",
+            "E": "2615414.7200",
+            "N": "1264897.8900",
+            "H": "279.7632",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643337070835768,
+                47.534631255516594,
+                279.7632
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN402",
+            "E": "2615484.3200",
+            "N": "1264855.1700",
+            "H": "279.7830",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644259908172023,
+                47.534245411705669,
+                279.783
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN501",
+            "E": "2615394.9400",
+            "N": "1264873.9200",
+            "H": "278.3510",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643073557557811,
+                47.53441613715637,
+                278.351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CN502",
+            "E": "2615413.9800",
+            "N": "1264860.9000",
+            "H": "278.4480",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64332596672654,
+                47.534298593692569,
+                278.448
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU101",
+            "E": "2615334.8972",
+            "N": "1264971.4726",
+            "H": "275.5407",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642279515492788,
+                47.53529490040345,
+                275.5407
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU102",
+            "E": "2615371.2584",
+            "N": "1264941.8426",
+            "H": "270.9198",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642761394428597,
+                47.535027568932072,
+                270.9198
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU103",
+            "E": "2615417.2476",
+            "N": "1264895.9171",
+            "H": "279.4597",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643370570367009,
+                47.534613452648856,
+                279.4597
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU104",
+            "E": "2615395.4727",
+            "N": "1264890.8097",
+            "H": "278.3936",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643081214206894,
+                47.534568026600788,
+                278.3936
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU105",
+            "E": "2615382.1476",
+            "N": "1264883.9536",
+            "H": "278.3901",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642904015130518,
+                47.53450667541896,
+                278.3901
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU106",
+            "E": "2615384.5276",
+            "N": "1264858.4329",
+            "H": "278.3960",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642934743430668,
+                47.534277092888175,
+                278.396
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU107",
+            "E": "2615414.7849",
+            "N": "1264843.7491",
+            "H": "278.4140",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643336064152617,
+                47.534144323817472,
+                278.414
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU108",
+            "E": "2615505.5640",
+            "N": "1264842.2367",
+            "H": "283.7830",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644541586718463,
+                47.534128593591731,
+                283.783
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU109",
+            "E": "2615415.8127",
+            "N": "1264830.8415",
+            "H": "280.1007",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643349268152029,
+                47.534028211943742,
+                280.1007
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU110",
+            "E": "2615447.2621",
+            "N": "1264816.7115",
+            "H": "279.9578",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643766436499853,
+                47.533900394247866,
+                279.9578
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU111",
+            "E": "2615469.3205",
+            "N": "1264843.6359",
+            "H": "279.1107",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644060310207478,
+                47.534142028793468,
+                279.1107
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU112",
+            "E": "2615452.7940",
+            "N": "1264848.5808",
+            "H": "278.7666",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643841004167192,
+                47.534186889473091,
+                278.7666
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU113",
+            "E": "2615438.6845",
+            "N": "1264864.1953",
+            "H": "278.3825",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64365416514795,
+                47.534327652969047,
+                278.3825
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU114",
+            "E": "2615413.8574",
+            "N": "1264875.3948",
+            "H": "278.3643",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64332483878842,
+                47.534428959290508,
+                278.3643
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU115",
+            "E": "2615339.7196",
+            "N": "1264786.4002",
+            "H": "280.0117",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642337203645555,
+                47.533630291765157,
+                280.0117
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU116",
+            "E": "2615450.9248",
+            "N": "1264746.0762",
+            "H": "280.4557",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64381263455954,
+                47.533265031445175,
+                280.4557
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU117",
+            "E": "2615430.6513",
+            "N": "1264668.2462",
+            "H": "279.9462",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.643540711734683,
+                47.532565521509213,
+                279.9462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU118",
+            "E": "2615488.4952",
+            "N": "1264740.7744",
+            "H": "280.3202",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644311389204916,
+                47.533216467053023,
+                280.3202
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU119",
+            "E": "2615548.0044",
+            "N": "1264669.9227",
+            "H": "280.0062",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.645099209895231,
+                47.53257784340429,
+                280.0062
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU120",
+            "E": "2615571.3751",
+            "N": "1264749.5949",
+            "H": "280.0931",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.6454123486624,
+                47.533293844861788,
+                280.0931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU121",
+            "E": "2615613.6469",
+            "N": "1264662.8871",
+            "H": "280.1123",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.645970691279583,
+                47.532513016053791,
+                280.1123
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU122",
+            "E": "2615644.2145",
+            "N": "1264611.5937",
+            "H": "280.0644",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.646374829510493,
+                47.532050970894744,
+                280.0644
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU123",
+            "E": "2615693.6470",
+            "N": "1264582.9493",
+            "H": "280.2474",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.647030276269986,
+                47.531792175402003,
+                280.2474
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU124",
+            "E": "2615579.6747",
+            "N": "1264518.9647",
+            "H": "281.0917",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.645514523475711,
+                47.53121941510944,
+                281.0917
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU125",
+            "E": "2615366.3630",
+            "N": "1264878.1079",
+            "H": "279.9895",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642694188103255,
+                47.534454468567802,
+                279.9895
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CU126",
+            "E": "2615493.4676",
+            "N": "1264786.7100",
+            "H": "280.2865",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644379016555239,
+                47.533629484078538,
+                280.2865
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "H7000",
+            "E": "2612983.1001",
+            "N": "1264723.6340",
+            "H": "335.7044",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.611039000736503,
+                47.533116367966983,
+                335.7044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NF007",
+            "E": "2615776.2520",
+            "N": "1264189.1210",
+            "H": "285.2684",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.648113337700156,
+                47.528248202957919,
+                285.2684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NF008",
+            "E": "2615541.7080",
+            "N": "1263598.1430",
+            "H": "291.8859",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644978306793918,
+                47.522938642090118,
+                291.8859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NF009",
+            "E": "2615591.4400",
+            "N": "1263529.0110",
+            "H": "295.1424",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.645636211669895,
+                47.522315709414677,
+                295.1424
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NF010",
+            "E": "2615586.5920",
+            "N": "1263509.4530",
+            "H": "294.9470",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.645571160786044,
+                47.522139923323508,
+                294.947
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG115",
+            "E": "2615636.0540",
+            "N": "1264455.4850",
+            "H": "281.7113",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.646260994863186,
+                47.530647159107872,
+                281.7113
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG116",
+            "E": "2615496.9197",
+            "N": "1264676.7262",
+            "H": "280.8249",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.644421045037062,
+                47.532640234828669,
+                280.8249
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG167",
+            "E": "2615661.3660",
+            "N": "1264593.2800",
+            "H": "280.6395",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.64660195567521,
+                47.531885854690032,
+                280.6395
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG178",
+            "E": "2614965.9120",
+            "N": "1264888.2560",
+            "H": "280.0801",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.637376380231575,
+                47.534554946274142,
+                280.0801
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG201",
+            "E": "2615169.8585",
+            "N": "1263991.8361",
+            "H": "286.5056",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.640054435329107,
+                47.526488091202943,
+                286.5056
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG222",
+            "E": "2615011.1268",
+            "N": "1264158.1198",
+            "H": "285.6994",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.637952318277374,
+                47.527987241777652,
+                285.6994
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG260",
+            "E": "2615664.4160",
+            "N": "1263881.7800",
+            "H": "287.4161",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.646617508475646,
+                47.525486710944314,
+                287.4161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG261",
+            "E": "2615544.7725",
+            "N": "1264926.6292",
+            "H": "287.3943",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.645065225157311,
+                47.534886676267426,
+                287.3943
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG345",
+            "E": "2615013.7059",
+            "N": "1264602.0273",
+            "H": "280.5742",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.63800148329588,
+                47.531979586835497,
+                280.5742
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG346",
+            "E": "2615043.9531",
+            "N": "1264293.8654",
+            "H": "283.9842",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.638392782222908,
+                47.52920735980954,
+                283.9842
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG348",
+            "E": "2615285.3617",
+            "N": "1263894.8498",
+            "H": "286.7582",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641584815195796,
+                47.525613150887025,
+                286.7582
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG353",
+            "E": "2614984.3733",
+            "N": "1264429.1356",
+            "H": "281.9964",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.637606153944325,
+                47.530425305584735,
+                281.9964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NG356",
+            "E": "2615346.8144",
+            "N": "1263676.8319",
+            "H": "289.6255",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642393306944262,
+                47.523650916895342,
+                289.6255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD200E",
+            "E": "2615357.5389",
+            "N": "1264932.8011",
+            "H": "345.0996",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642578881204612,
+                47.534946571498367,
+                345.0996
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD200N",
+            "E": "2615297.4401",
+            "N": "1264969.7061",
+            "H": "345.0851",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641782002064641,
+                47.535279882811977,
+                345.0851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD200S",
+            "E": "2615324.2901",
+            "N": "1264878.6800",
+            "H": "345.1120",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.642135463045049,
+                47.534460592823976,
+                345.112
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "CD200W",
+            "E": "2615264.2009",
+            "N": "1264915.5756",
+            "H": "345.0893",
+            "type": "Dach"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.641338715586727,
+                47.534793816378858,
+                345.0893
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "E67604",
+            "E": "2615061.5622",
+            "N": "1264805.8868",
+            "H": "326.3810",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.63864387775667,
+                47.533811960194889,
+                326.381
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "H67604",
+            "E": "2615058.5179",
+            "N": "1264811.7706",
+            "H": "328.9459",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.638603647087709,
+                47.533864947198815,
+                328.9459
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "H67715",
+            "E": "2616280.3778",
+            "N": "1263171.4095",
+            "H": "495.3566",
+            "type": "Aussen"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.654770450181903,
+                47.519082867806127,
+                495.3566
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "HPCMR4",
+            "E": "2614579.2753",
+            "N": "1264463.2327",
+            "H": "284.4687",
+            "type": "Monitoring"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.632227811981397,
+                47.530741044310005,
+                284.4687
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NF006A",
+            "E": "2615735.4230",
+            "N": "1264192.3000",
+            "H": "284.9937",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.647571287954205,
+                47.528277769580818,
+                284.9937
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NC11009",
+            "E": "2615762.0640",
+            "N": "1264770.2760",
+            "H": "281.4185",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.647945446430076,
+                47.53347531561284,
+                281.4185
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NC11010",
+            "E": "2615737.3770",
+            "N": "1264784.6020",
+            "H": "281.2041",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.647618104269605,
+                47.533604749818707,
+                281.2041
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Pt": "NC11020",
+            "E": "2615059.0210",
+            "N": "1264758.2190",
+            "H": "280.1209",
+            "type": "Nivellement"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                7.6386085230472,
+                47.533383305348096,
+                280.1209
+            ]
+        }
+    }
+]
